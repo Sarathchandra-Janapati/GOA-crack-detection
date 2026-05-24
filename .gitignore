@@ -1,0 +1,34 @@
+# credentials
+kaggle.json
+*.json
+
+# large binaries / archives
+*.zip
+*.tar.gz
+*.h5
+*.keras
+*.pth
+*.pkl
+
+# datasets / images folders
+Dataset/
+Conglomerate Concrete Crack Detection/
+Pretrained_images/
+masks/
+train/
+Model/
+Capstone Home/
+
+# misc large files
+*.pdf
+*.pptx
+*.docx
+*.ppm
+*.webp
+*.tmp
+jdk-*
+
+# temp
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
